@@ -1,4 +1,5 @@
-EE334 COMPUTER ARCHITECTURE SPRING 2024 BRANCH TARGET BUFFER PROJECT
+EE334 COMPUTER ARCHITECTURE SPRING 2024 BRANCH TARGET BUFFER PROJECT: 
+
 Objective: To write a program that simulates a branch target buffer (BTB) that performs dynamic branch prediction.
 Input: A long set of PC addresses from program traces.
 Programming language: Use any programming language (C++, Phyton, Java, ...). Program/code sharing: Code sharing is not allowed. Students with code sharing will get 0
